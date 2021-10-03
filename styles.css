@@ -1,0 +1,67 @@
+body{font-family: Georgia, 'Times New Roman', Times, serif;
+        background-color:rgb(187, 226, 228);
+    color: rgb(0, 0, 0);
+    font-size: 8mm;
+}
+
+h1{
+    font-size: 100px;    
+    text-align: center;
+}
+h2{
+    font-size: xx-large;
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+a{
+    
+    font-size: medium;
+}
+a:link {
+    color: rgb(255, 44, 44);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(238, 138, 155);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(255, 174, 0);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(53, 236, 68);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+th{
+text-align: center;
+}
+td{
+  text-align: center;
+  }
+tr:hover {background-color: #D6EEEE;}
+table, th, td {
+  border: 1px solid rgb(190, 121, 89);
+  border-radius: 10px;
+}
+
+img{
+  width:100%;
+}
+body {
+  background-image: url("https://cdn-icons-png.flaticon.com/512/1693/1693746.png");
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: 10%;
+}
