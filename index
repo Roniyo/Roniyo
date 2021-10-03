@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Artificial Intelligence</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1><b>Artificial Intelligence</b></h1>
+    <img src="https://www.securitymagazine.com/ext/resources/artificial-intelligence-3685928_1280.png?1559658311" alt="Human Mind and the AI network">
+
+    <p style="text-align: left; line-height: 200%;"><a href="#1" style="color: #348f60; font-size: xx-large;"></b>1. What is Artificial Intelligence?</a><br>
+       <a href="#2" style="color: #348f60; font-size: xx-large;">2. What makes them so useful?</a><br>
+       <a href="#3" style="color: #348f60; font-size: xx-large;">3. Advantages and Disadvantages</a><br>
+       <a href="#4" style="color: #348f60; font-size: xx-large;">4. Takeaways</a>
+
+    <h2 id="1">What is Artificial Intelligence?</b></h2>
+    <p title="What is Artificial Intelligence?">Artificial intelligence is the simulation of human intelligence processes by machines, 
+        <br>especially computer systems. Specific applications of AI include expert systems, natural language 
+        <br>processing, speech recognition and machine vision.</p>
+    <img src="https://www.edureka.co/blog/wp-content/uploads/2018/09/shutterstock_725383498.png">
+    
+    <h2 id="2">What makes them so useful?</h2>
+    <p title="What makes them so useful?">Artificial Intelligence enhances the speed, precision and effectiveness of human efforts. In financial institutions,
+        <br> AI techniques can be used to identify which transactions are likely to be fraudulent, adopt fast and accurate credit 
+        <br>scoring, as well as automate manually intense data management tasks.</p>
+    <img src="https://images.squarespace-cdn.com/content/v1/5f47ace076731e4c0243506b/1613553171234-ZUSGE9QEWEOGYSPV5A8L/20210215+AI.png">
+    <br>
+     
+    <table style="width:100%" id="3">
+        <caption style="font-size: xxx-large;">Advantages and Disadvantages</caption>
+        <tr>
+          <th>Advantages</th>
+          <th>Disadvantages</th>
+        </tr>
+        <tr>
+            <td>Reduction in Human Error</td>
+            <td>High Costs of Creation</td>
+        </tr>
+        <tr>
+            <td>Takes risks instead of Humans</td>
+            <td>Making Humans Lazy</td>
+        </tr>
+        <tr>
+            <td>Available 24x7</td>
+            <td>Unemployment</td>
+        </tr>
+        <tr>
+            <td>Helping in Repetitive Jobs</td>
+            <td>No Emotions</td>
+        </tr>
+        <tr>
+            <td>Digital Assistance</td>
+            <td>Lacking Out of Box Thinking</td>
+        </tr>
+        </tr>
+      </table><br>
+
+    <h2 id="4">A Few Takeaways</h2>
+    <p> 1.Artificial intelligence refers to the simulation of human intelligence in machines.<br><br>
+        2.The goals of artificial intelligence include learning, reasoning, and perception.<br><br>
+        3.AI is being used across different industries including finance and healthcare.<br><br>
+        4.Weak AI tends to be simple and single-task oriented, while strong AI carries on tasks that are <br>more complex and human-like.</p><br><br>
+        <a href="https://www.technologyreview.com/2021/01/14/1016122/these-five-ai-developments-will-shape-2021-and-beyond/" target="_blank">Tap to find about recent AI advancements</a>    
+
+    <br><a href="mailto:roniyo02@gmail.com">Tap to contact the owner of this page</a>
+</body>
+</html>
